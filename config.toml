@@ -1,5 +1,5 @@
 baseurl = "http://www.jacobsargent.com"
-title = "johndoe"
+title = "Jacob Sargent"
 
 theme = "hugo-coder"
 
@@ -13,16 +13,16 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Jacob Sargent"
+    description = "Jacob Sargent's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Making Things Compassionate and Captivating"
     avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    #gravatar = "jacobsargent@gmail.com"
+    footercontent = "Footer text."
 
     dateformat = "January 2, 2006"
 
@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "light"
+    colorscheme = "auto"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -70,34 +70,17 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/jvsarge/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/jvsarge/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.linkedin.com/in/jvsarge/"
 
 
 [languages]
