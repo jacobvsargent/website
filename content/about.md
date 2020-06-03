@@ -3,7 +3,7 @@ title = "About Hugo"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Hugo is a static site engine written in Go. Test from Jacob
 
 
 It makes use of a variety of open source projects including:
