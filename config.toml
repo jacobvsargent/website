@@ -70,7 +70,7 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/jvsarge/"
+    url = "https://github.com/jacobvsargent/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -80,7 +80,7 @@ pygmentscodefencesguesssyntax = true
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/jvsarge/"
+    url = "https://www.linkedin.com/in/jvsargent/"
 
 
 [languages]
