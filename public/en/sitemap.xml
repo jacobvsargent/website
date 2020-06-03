@@ -3,237 +3,237 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/series/hugo/</loc>
+    <loc>http://www.jacobsargent.com/series/hugo/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>http://www.jacobsargent.com/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
+                href="http://www.jacobsargent.com/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="http://www.jacobsargent.com/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>http://www.jacobsargent.com/posts/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="http://www.jacobsargent.com/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="http://www.jacobsargent.com/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/theme/</loc>
+    <loc>http://www.jacobsargent.com/series/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.jacobsargent.com/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.jacobsargent.com/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/series/theme/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/twemoji-support/</loc>
+    <loc>http://www.jacobsargent.com/posts/twemoji-support/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/render-latex-using-katex/</loc>
+    <loc>http://www.jacobsargent.com/posts/render-latex-using-katex/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>http://www.jacobsargent.com/categories/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="http://www.jacobsargent.com/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="http://www.jacobsargent.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/development/</loc>
+    <loc>http://www.jacobsargent.com/categories/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/development/</loc>
+    <loc>http://www.jacobsargent.com/tags/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/hugo/</loc>
+    <loc>http://www.jacobsargent.com/tags/hugo/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="http://www.jacobsargent.com/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="http://www.jacobsargent.com/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>http://www.jacobsargent.com/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>http://www.jacobsargent.com/tags/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="http://www.jacobsargent.com/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="http://www.jacobsargent.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/themes/</loc>
+    <loc>http://www.jacobsargent.com/tags/themes/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/theme-demo/</loc>
+    <loc>http://www.jacobsargent.com/posts/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/creating-a-new-theme/</loc>
+    <loc>http://www.jacobsargent.com/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hugo-template-primer/</loc>
+    <loc>http://www.jacobsargent.com/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/getting-started/</loc>
+    <loc>http://www.jacobsargent.com/series/getting-started/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/hugoisforlovers/</loc>
+    <loc>http://www.jacobsargent.com/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/go/</loc>
+    <loc>http://www.jacobsargent.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/golang/</loc>
+    <loc>http://www.jacobsargent.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/golang/</loc>
+    <loc>http://www.jacobsargent.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/templates/</loc>
+    <loc>http://www.jacobsargent.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/migrate-from-jekyll/</loc>
+    <loc>http://www.jacobsargent.com/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>http://www.jacobsargent.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="http://www.jacobsargent.com/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="http://www.jacobsargent.com/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>http://www.jacobsargent.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="http://www.jacobsargent.com/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="http://www.jacobsargent.com/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/first/</loc>
+    <loc>http://www.jacobsargent.com/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>http://www.jacobsargent.com/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="http://www.jacobsargent.com/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="http://www.jacobsargent.com/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/second/</loc>
+    <loc>http://www.jacobsargent.com/snippets/second/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/</loc>
+    <loc>http://www.jacobsargent.com/snippets/</loc>
   </url>
   
 </urlset>
