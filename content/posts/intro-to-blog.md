@@ -5,6 +5,7 @@ slug = "blog-intro"
 tags = []
 categories = []
 series = ["Theme", "Hugo"]
+featured_image = "https://imgs.xkcd.com/comics/angular_momentum.jpg"
 +++
 
 This is an introduction to the blog. 

@@ -1,5 +1,5 @@
 baseurl = "http://www.jacobsargent.com"
-title = "Jacob Sargent"
+title = "Home"
 
 theme = "hugo-coder"
 
@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Jacob Sargent"
+    author = "A home"
     description = "Jacob Sargent's personal website"
     keywords = "blog,developer,personal"
     info = "Making Things Compassionate and Captivating"
