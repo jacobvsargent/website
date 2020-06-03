@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "A home"
+    author = "Jacob Sargent"
     description = "Jacob Sargent's personal website"
     keywords = "blog,developer,personal"
     info = "Making Things Compassionate and Captivating"
