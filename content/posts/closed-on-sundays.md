@@ -1,7 +1,7 @@
 +++ 
 date = "2020-06-29"
 title = "Closed on Sundays"
-slug = "blog-intro" 
+slug = "cfa" 
 tags = []
 categories = []
 series = ["Personal"]
