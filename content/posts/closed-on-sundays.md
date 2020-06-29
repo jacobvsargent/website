@@ -8,8 +8,8 @@ series = ["Personal"]
 featured_image = "https://alexandrialivingmagazine.com/downloads/4510/download/chick-fil-a-alexandria-va.png?cb=b07d5c0ba68717878ed17bb4535c449f&w=320&h="
 +++
 
-##Closed on Sundays
-###A Love Letter to Chick-Fil-A
+##Closed on Sundays##
+###A Love Letter to Chick-Fil-A###
 
 
 When you think about Chick-Fil-A, what comes to mind?
