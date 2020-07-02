@@ -23,4 +23,4 @@ https://www.facebook.com/events/2746804092097179
 
 https://houserules.io
 
-![alt text lol!](/static/images/avatar.jpg "title text")
+![alt text lol!](/images/avatar.jpg "title text")

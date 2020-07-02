@@ -1,18 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://www.jacobsargent.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-05-25T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://www.jacobsargent.com/pt-br/sitemap.xml</loc>
-		
-	   	<lastmod>2018-12-31T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.jacobsargent.com/posts/cfa/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/series/personal/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/posts/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/series/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/posts/blog-intro/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jacobsargent.com/tags/</loc>
+  </url>
+  
+</urlset>
