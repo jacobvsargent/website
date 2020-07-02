@@ -7,9 +7,10 @@ slug = "about"
 Education: Economics Major at Clemson University (4.0/4.0)
 
 Proficiencies: 
-* Computer Science 
-* Political Science
-* German & French Language
+* Computer Science - scripting, back-end web development, demystifying tech
+* Political Science - policy analysis, political research
+* German Language & Culture - advanced
+* French Language - intermediate
 
 Interests: 
 * Education Policy Reform 
