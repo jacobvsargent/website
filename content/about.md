@@ -3,8 +3,10 @@ title = "About Jacob"
 slug = "about"
 +++
 
-## In a sentence
-I'm a senior Economics major at Clemson University, with interests in Computer Science and Politics.  
+## The Basics
+Major: Economics
+Proficiencies: Computer Science, Political Science, and German & French Language
+Interests: Education Policy Reform, Trivia, Start-ups, and Pokemon
 
 ## In a paragraph
-Making peoples' days easier is what I do. Whether that's automating the most frustrating part of your workday or cracking dad jokes every few minutes. I'm not terribly invested in coding, political research, or UX/UI design, but I do have experience in all of them. I think people like having me on teams because I do well in connecting needs with abilities. I love to travel, read Wikipedia, play Pokemon, and talk about politics.  
+I try to make peoples' days easier. Whether that's automating the most frustrating part of their workday or cracking bad jokes every so often. I'm not terribly invested in coding, political research, or web design, but I do have experience in all of them. I think my role on teams is connecting needs with abilities. I love to travel, read Wikipedia, play Pokemon, and talk about politics.  
