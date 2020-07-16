@@ -8,7 +8,6 @@ series = ["Personal"]
 +++
 
 ## Welcome to the Real World ##
-### or, "your way of doing things sucks" ###
 
 Family beach trip. 15 people. Pizza night. Got it?
 
@@ -20,11 +19,9 @@ So we called to check in, and they said that a Doordash deliveryman had left the
 
 9:15: no pizza.
 
-So I called again, not angrily, but more to let them know that their contract deliveryperson had likely gone rogue. They had. A family member chimed in while I was on the phone that I was being too nice. "You gotta let 'em have it." Whatever. This time, the person on the other end let us know that there was a mix-up with the address, likely due to a recent city-wide rezoning. He was going to call a different Papa John's, closer to us, and that the whole was going to be free.
+So I called again, not angrily, but more to let them know that their contract deliveryperson had likely gone rogue. They had. A family member chimed in while I was on the phone that I was being too nice. "You gotta let 'em have it." Whatever. This time, the person on the other end let us know that there was a mix-up with the address, likely due to a recent city-wide rezoning. He was going to call a different Papa John's, closer to us, and that the whole was going to be free. Sweet.
 
-Sweet. That sounds like the optimal scenario right there. 
-
-10pm. 3 and a half hours post-order. No pizza.
+10pm. 3-and-a-half hours post-order. No pizza.
 
 I didn't want to call this time, but I was convinced. 10pm was also closing time, so it was important to call before everyone left the physical Papa John's. I heard a new voice on the other end, the general manager. She told us that they tried contacted the other Papa John's, but they were forced to closed for the day after the storms. They'd never received power again. Thinking they could offload our order, they had already taken ours off their registry.
 
@@ -38,8 +35,8 @@ The general manager said they were closing up, but she'd stick around to make ou
 
 I went back upstairs to those who waited and trusted that the pizza was coming. And we feasted. 
 
-Still, the next day, the talk was that it would have been there hours faster if we'd used the "assertive" (read: obnoixious) approach, but I couldn't care less.
+Still, the next day, the talk was that it would have been there hours faster if we'd used the "assertive" (read: obnoxious) approach, but I couldn't care less.
 
-In my short time here on Earth, I've noticed there are generally two types of people. Those who have worked in service, and those who are rude to servicepeople. 
+In my short time here on Earth, I've noticed there are generally two types of people. Those who have worked in service, and those who are rude to servicepeople. Don't be that guy.
 
 -Jacob
