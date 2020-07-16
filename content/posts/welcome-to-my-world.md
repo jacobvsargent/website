@@ -5,7 +5,6 @@ slug = "wtmw"
 tags = []
 categories = []
 series = ["Personal"]
-featured_image = 
 +++
 
 ## Welcome to the Real World ##
