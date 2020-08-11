@@ -6,10 +6,22 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.jacobsargent.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Where We&#39;re At</title>
+      <link>http://www.jacobsargent.com/posts/wwa/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jacobsargent.com/posts/wwa/</guid>
+      <description>Where We&amp;rsquo;re At Website: 80% Complete -Functionality: 95% -Design: 70% -Security: 50%
+App: Unsure. Should talk to Nick more about this.
+We&amp;rsquo;re so close to having a website that I don&amp;rsquo;t mind telling people to look at. Like right there.
+Developing a product like this is a huge chicken-and-egg situation. Like Uber needing drivers, but to attract drivers, it needs riders. On the one hand, showing charities the progress we&amp;rsquo;ve made so far is integral to getting them on board.</description>
+    </item>
     
     <item>
       <title>Welcome to my World</title>
