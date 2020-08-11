@@ -6,6 +6,8 @@ slug = "about"
 ## The Basics
 Education: Economics Major at Clemson University (4.0/4.0)
 
+If you want a resume or CV, just ask.
+
 Proficiencies: 
 * Computer Science - scripting, back-end web development, demystifying tech
 * Political Science - policy analysis, political research

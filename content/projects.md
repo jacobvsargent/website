@@ -4,7 +4,9 @@ slug = "projects"
 +++
 
 ## Bet On It
-**Bet On It** is another project by me and Nick Deas (@nickdeas). The website and app are currently in development, but this is where it will be once it's done. 
+**Bet On It** is a project by me and Nick Deas (@nickdeas). The website and app are currently in development, and we hope to launch this January in 2021.
+
+Bet On It makes it easy to give to charity through a betting system. Basically, you bet with friends and the loser donates some change to charity. Read more on the website.
 
 https://betonit.biz
 
@@ -26,6 +28,8 @@ https://www.facebook.com/events/2746804092097179
 
 ## House Rules
 **House Rules** is a project by me and Nick Deas (@nickdeas). The website is based in Django and runs on Google Cloud Platform. While totally functional, we're working to make it easier to navigate and not as hideous. However, the pandemic has basically nullified its reason to exist, so it'll be a while before we get around to this.
+
+Update: I didn't feel like paying another $30 for the houserules.io domain and our Google credits ran out so...the website is probably going down.
 
 https://houserules.io
 
